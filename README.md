@@ -35,7 +35,7 @@ git clone https://github.com/gabthe/betalent_employees_app.git
 Navegue até a pasta do projeto e atualize as dependencias:
 
 ```bash
-cd betalent_employee_app
+cd betalent_employee
 flutter pub get
 ```
 
