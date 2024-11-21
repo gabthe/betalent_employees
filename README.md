@@ -27,7 +27,7 @@ Antes de rodar o projeto, certifique-se de que você tem as seguintes ferramenta
 Clone o repositório para sua máquina local utilizando o Git:
 
 ```bash
-git clone https://github.com/gabthe/betalent_employees_app.git
+git clone https://github.com/gabthe/betalent_employees.git
 ```
 
 ### 2. Navegar e atualizar as dependencias
@@ -35,7 +35,7 @@ git clone https://github.com/gabthe/betalent_employees_app.git
 Navegue até a pasta do projeto e atualize as dependencias:
 
 ```bash
-cd betalent_employee
+cd betalent_employees
 flutter pub get
 ```
 
